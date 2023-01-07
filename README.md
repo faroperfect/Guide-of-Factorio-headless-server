@@ -1,3 +1,4 @@
+# Only for reference. BUG is not undefined.
 # Guide-of-Factorio-headless-server
 This is a guide of hold a simple factorio headless server. It can run at a 1 core 2G RAM ECS for only several user well.
 First of all, I have factorio on the Steam.  
@@ -21,3 +22,6 @@ FAQ:
 
 
 This file is almost the same with Guide.md.
+*****************************************************************************************  
+There is a horrible bug about doing above things. I have not find the reason yet. It just will not work after several days' working. And when I restart it with the save.zip (the game save) , it will not work.
+I can ensure that it worked well in the first 3 days, and about 10 days after I start my server I can not find it on Internet lobby. 
