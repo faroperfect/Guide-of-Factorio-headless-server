@@ -1,4 +1,4 @@
-# Only for reference. BUG is not undefined.
+# Only for reference. BUG is undefined.
 # Guide-of-Factorio-headless-server
 This is a guide of hold a simple factorio headless server. It can run at a 1 core 2G RAM ECS for only several user well.
 First of all, I have factorio on the Steam.  
